@@ -451,7 +451,7 @@ Tulostuslauseen tulostama tieto eli komennon _parametrit_ annetaan tulostuskomen
 Puolipisteellä `;` erotetaan lauseet toisistaan. Voisimme oikeastaan kirjoittaa lähes kaiken yhdelle riville. Tämä ei ole kuitenkaan kovin ymmärrettävää.
 
 ```java
-System.out.println("Hei "); System.out.println("maailma"); System.out.println("!\n");
+System.out.println("Hei "); System.out.println("maailma"); System.out.println("!");
 ```
 
 <sample-output>
@@ -477,7 +477,7 @@ The information to be printed by the print command, i.e. its **parameters**, are
 Commands are separated with a semicolon `;`. We could, if we wanted to, write almost everything on a single line. However, that would be difficult to understand.
 
 ```java
-System.out.println("Hello "); System.out.println("world"); System.out.println("!\n");
+System.out.println("Hello "); System.out.println("world"); System.out.println("!");
 ```
 
 <sample-output>
