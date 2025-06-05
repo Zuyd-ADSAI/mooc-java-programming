@@ -15,6 +15,3 @@ The course channel is available [through this link](https://study.cs.helsinki.fi
 
 The participants in the channel are fellow students and volunteer course assistants. The channel's activity is based on voluntary assistance. Please also help other students on the channel when you can.
 
-## Email
-
-You can reach course staff by email using address ohjelmoinnin-mooc@helsinki.fi. Feel free to write in English or in Finnish.
