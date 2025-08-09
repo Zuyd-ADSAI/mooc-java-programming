@@ -828,7 +828,7 @@ new AnimationTimer() {
 
 <!-- Alus liikkuu, mutta aluksen liikettä ei voi vielä muuttaa. Lisätään alukselle kiihdytystoiminnallisuus. Kiihdytyksen tulee toimia niin, että aluksen nopeus kiihtyy aluksen osoittamaan suuntaan. Saamme kiihdytyksen monikulmion asteesta, jonka saa selville metodilla `getRotate()`. Olemme käyttäneet tätä jo paljon alusta kääntäessä. -->
 
-The ship moves, but it's not possible to affect the movement yet. Let's add an acceleration functionality to the shpi. The ship should accelerate so that the speed accelerates to the direction that the ship points to. We can get the acceleration information from the rotation degree, which we can use the `getRotate()` method. We have already become well acquainted with it in rotating the ship.
+The ship moves, but it's not possible to affect the movement yet. Let's add an acceleration functionality to the ship. The ship should accelerate so that the speed accelerates to the direction that the ship points to. We can get the acceleration information from the rotation degree, which we can use the `getRotate()` method. We have already become well acquainted with it in rotating the ship.
 
 <!-- Kiihdytyksen suunta saadaan selville sini- ja kosinifunktion avulla. Nämä löytyvät Javan valmiista [Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)-luokasta. Metodit saavat parametrina asteen radiaaneina, joten joudumme hyödyntämään myös Math-luokan asteiden radiaaneiksi muuttavaa metodia. -->
 
