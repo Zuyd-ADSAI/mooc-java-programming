@@ -402,7 +402,7 @@ books.add(prideAndPrejudice);
 // searching for a book named Sense and Sensibility
 Book match = null;
 for (Book book: books) {
-    if (book.getName().equals("Sense and Sensibility") {
+    if (book.getName().equals("Sense and Sensibility")) {
         match = book;
         break;
     }
@@ -713,7 +713,7 @@ public class Library {
     }
 
     public void addBook(Book book) {
-        String name = book.getName()
+        String name = book.getName();
         if (name == null) {
             name = "";
         }
