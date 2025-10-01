@@ -825,7 +825,7 @@ public class Syottonakyma {
 ``` -->
 
 ```java
-package applicatoin;
+package application;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
