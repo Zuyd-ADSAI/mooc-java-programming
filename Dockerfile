@@ -5,4 +5,4 @@ WORKDIR /app
 
 RUN npm ci
 
-RUN npm run build && mv /app/public /public
+RUN npm run build
