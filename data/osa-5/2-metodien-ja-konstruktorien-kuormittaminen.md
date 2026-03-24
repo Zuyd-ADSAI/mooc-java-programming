@@ -299,7 +299,7 @@ public void vanhene(int vuodet) {
 
 TODO: tarkasta että video oikealla kohdalla
 
-<youtube id='b6YmqoQopvs'></youtube>
+<!-- <youtube id='b6YmqoQopvs'></youtube> -->
 
 
 

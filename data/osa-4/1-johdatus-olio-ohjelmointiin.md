@@ -343,7 +343,7 @@ Martin, ikä 0 vuotta
 
 Sama screencastina:
 
-<youtube id='fWwXQ5n2gYo'></youtube>
+<!-- <youtube id='fWwXQ5n2gYo'></youtube> -->
 
 &nbsp;
 
@@ -1345,7 +1345,7 @@ public String toString() {
 
 Olioscreencastin kolmas osa:
 
-<youtube id='YKwzIGuCLn8'></youtube>
+<!-- <youtube id='YKwzIGuCLn8'></youtube> -->
 
 &nbsp;
 

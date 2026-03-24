@@ -529,7 +529,7 @@ Joillain Linux-koneilla, kuten Kumpulassa olevilla koneilla, tämä saadaan aika
 </text-box>
 
 
-<youtube id='aSFT6UnyvE0'></youtube>
+<!-- <youtube id='aSFT6UnyvE0'></youtube> -->
 
 
 <programming-exercise name='Kasvatuslaitos (3 osaa)' tmcname='osa05-Osa05_09.Kasvatuslaitos'>

@@ -84,7 +84,7 @@ public class Esimerkki {
 
 Alla on kurssin toinen ohjelmointitehtävä. Mikäli haluat, voit katsoa jo nyt alta olevalta videolta miten tehtävä ratkaistaan.
 
-<youtube id="-DzOKI6iH5w"></youtube>
+<!-- <youtube id="-DzOKI6iH5w"></youtube> -->
 
 <programming-exercise name='Ada Lovelace' tmcname='osa01-Osa01_02.AdaLovelace'>
 

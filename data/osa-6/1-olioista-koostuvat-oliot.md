@@ -268,7 +268,7 @@ Painonvartijayhdistys Kumpulan paino jäsenet:
 </sample-output>
 
 
-<youtube id="Rut2pt5ztN0"></youtube>
+<!-- <youtube id="Rut2pt5ztN0"></youtube> -->
 
 
 Tehdään vielä lopuksi painovartijayhdistykselle metodi, jolla saadaan tietoon yhdistyksen suurimman painoindeksin omaava henkilö.

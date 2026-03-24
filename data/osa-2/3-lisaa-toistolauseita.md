@@ -46,7 +46,7 @@ Yllä muuttujan `luku` arvoa kasvatetaan yhdellä aina kun toistolauseen lohko s
 
 Alla on video toistolauseen käytöstä.
 
-<youtube id='us9GXUZ60ws'></youtube>
+<!-- <youtube id='us9GXUZ60ws'></youtube> -->
 
 
 ## For-toistolause

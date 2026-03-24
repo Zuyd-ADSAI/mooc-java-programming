@@ -158,7 +158,7 @@ Naapurit ovat soluun koskettavia soluja. Naapuri koskettaa solua joko reunasta, 
 
 Game of Life ei sisällä liikkumissääntöjä, mutta se silti luo tilanteita, joissa erilaiset hahmot liikkuvat ruudulla. Alla olevalla videolla John Conway kertoo Game of Lifen kehittämisestä.
 
-<youtube id="R9Plq-D1gEk"></youtube>
+<!-- <youtube id="R9Plq-D1gEk"></youtube> -->
 
 
 <programming-exercise name='Game of Life (2 osaa)' tmcname='osa14-Osa14_02.GameOfLife'>

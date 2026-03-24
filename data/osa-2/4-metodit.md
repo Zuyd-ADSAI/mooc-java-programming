@@ -1410,7 +1410,7 @@ Now the value of the variable `number1` is copied as the value of the method par
 <quiznator id="5c1f6959da457b11ff9f1242"></quiznator>
 
 
-<youtube id='zEHvycTo81c'></youtube>
+<!-- <youtube id='zEHvycTo81c'></youtube> -->
 
 
 <!-- <programming-exercise name='Lukujen summa' tmcname='osa02-Osa02_29.LukujenSumma'> -->

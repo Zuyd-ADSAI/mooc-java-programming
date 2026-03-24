@@ -24,7 +24,7 @@ We've so far been practicing the fundamentals of the language, such as variables
 
 A programmer develops blind spots in their code. Let's familiarize ourselves to the effect with the aid of the short video below. Count how many times the white-shirted players pass the ball between each other. The video contains instructions in English.
 
-<youtube id="Ahg6qcgoay4"></youtube>
+<!-- <youtube id="Ahg6qcgoay4"></youtube> -->
 
 <!-- Videossa tapahtuu jotain muutakin, mutta tämä saattaa jäädä aluksi huomaamatta. Tätä efektiä kutsutaan tahattomaksi sokeudeksi (inattentional blindness). Tahaton sokeus selittyy sillä, että keskittyessämme tiettyyn tehtävään, aivomme pyrkivät suodattamaan tehtävän kannalta epäoleellista tietoa. Emme kuitenkaan aina tiedä -- esimerkiksi opiskellessamme -- mikä osa tiedosta on oleellista ja mikä osa epäoleellista, mutta keskittyminen tiettyyn osaan opiskelutehtävää voi silti johtaa tilanteeseen, missä osa relevantista osasta suodattuu pois. -->
 

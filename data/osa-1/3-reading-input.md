@@ -77,7 +77,7 @@ Hello world
 <!-- Alla olevassa videossa näytetään käyttäjältä syötettä lukevan ohjelman tekoprosessi. Katso video ennen seuraavan ohjelmointitehtävän tekemistä. Kiinnitä erityisesti huomiota siihen, miten syöte annetaan ohjelman käynnissä ollessa TMC:n alalaidassa olevaan Output-ikkunaan. -->
 The video below shows the process of making a program which reads user input. Watch the video before doing the following programming exercise. Especially take not of how when the program is running, input is written to the Output-window located at the bottom of TMC.
 
-<youtube id='7lswbb_R7uM'></youtube>
+<!-- <youtube id='7lswbb_R7uM'></youtube> -->
 
 <programming-exercise name='Viesti' tmcname='osa01-Osa01_05.Viesti'>
 
